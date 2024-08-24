@@ -42,4 +42,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /lib/constants.dart
-/android/app/main/AndroidManifest.xml
+android/app/main/AndroidManifest.xml

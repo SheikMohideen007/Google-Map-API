@@ -12,4 +12,3 @@ key.properties
 **/*.keystore
 **/*.jks
 
-/android/app/main/AndroidManifest.xml
